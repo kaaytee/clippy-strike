@@ -1,10 +1,9 @@
 # clippy-strike
 
-##
 
 
 
-##
+## criteria
 - app that reads through all replayson folder
 - user criteria - 
 -- 1. weapon, kills,team side
